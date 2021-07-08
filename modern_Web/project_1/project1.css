@@ -1,0 +1,1019 @@
+*{
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Playfair Display', serif;
+}
+
+.page1{
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/17-12-2018/forest-demo_Free/2069386206/web/images/b2.jpg") ;
+    background-size: cover;
+    min-height:800px ;
+    color: white;
+
+}
+/* navbar styling */
+.navbar {
+    overflow: auto;
+
+}
+
+.navbar ul {
+    overflow: none;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 3px 25px;
+    margin-top: 25px;
+}
+.navbar li a{
+    color: white;
+    font-size: 17px;
+    transition:all 0.3s ease;
+}
+.navbar li a:hover{
+    color:#a3c962;
+
+}
+
+
+#nav-1 {
+    margin-left: 20px;
+    margin-right: 700px;
+    padding: 13px 22px;
+    font-size: 40px !important;
+    float: left;
+    cursor: pointer;
+    font-weight:500;
+}
+
+
+#h3-1{
+    font-size: 30px;
+    font-weight:500;
+}
+
+#h1-1{
+    font-size: 50px;
+    margin:10px;
+}
+
+
+.first-div{
+    text-align: center;
+    margin: 170px auto;
+    width: 900px;
+    height:400px;
+    letter-spacing: 2px;
+    
+}
+.second-div{
+    height:100px;
+    text-align: center;
+    overflow:auto;
+    margin-top:50px;
+}
+.second-div a{
+    display:inline-block;
+    border: 2px solid rgb(255, 255, 255);
+    padding:8px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 5px;
+    height: 40px;
+    width: 100px;
+    border-radius: 17px;
+
+
+
+}
+.a-1 {
+    background-color: rgb(255, 255, 255);
+    color: #a3c962;
+    transition:all 0.3s ease;
+}
+
+.a-1:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
+.a-2 {
+    background-color: #a3c962;
+    color: white;
+    transition:all 0.3s ease;
+}
+.a-2:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+
+}
+
+
+
+/* ##################################page-2 styling########################################## */
+
+p{
+    line-height:25px;
+}
+
+.third-div{
+    height:270px;
+    width: 666px;
+    margin:10px auto;
+    box-sizing: border-box;
+}
+
+.h6-1-page2{
+    text-align: center;
+    padding-top:60px;
+    font-size: 20px;
+    color: #a3c962;
+    font-weight: 600;
+    letter-spacing: none !important;
+}
+
+#h2-1-page2{
+    font-size:28px;
+    text-align: center;
+    padding-top:7px;
+    letter-spacing: 0px !important;
+}
+
+#p-1-page2{
+    padding:7px;
+    text-align: center;
+    margin-top: 25px;
+    color:rgb(97, 96, 96);
+}
+/* now comes the picture part */
+.fourth-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+#item-1{
+    height: 454px;
+    width: 404px;
+    padding-right: 20px;
+    
+}
+
+
+#item-2{
+    background-size: cover;
+    height: 500px;
+    width: 650px;
+    margin-left: 90px;
+}
+
+.h6-2-page2{
+    font-size: 20px;
+    color: #a3c962;
+    font-weight: 600;
+    letter-spacing: none !important;
+}
+
+.h5-1-page2{
+    font-weight: 400;
+    font-size:25px;
+    letter-spacing: 2px;
+    
+}
+
+
+#p-2-page2{
+    margin-top: 10px;
+    height: 140px;
+    word-spacing: 2px;
+    letter-spacing: none !important; 
+    color: rgb(58, 58, 58);
+    
+}
+
+
+.item-3-img{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    
+}
+
+.img-page2 img{
+    height:180px;
+    width:190px;
+}
+
+.label{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size:17px;
+}
+
+.page2{
+    letter-spacing: 2px;
+}
+
+
+/* ############################ Page-3 styling ######################### */
+/* page3 part 1 */
+
+.page3{
+    margin-top: 20px;
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/17-12-2018/forest-demo_Free/2069386206/web/images/s1.jpg") ;
+    background-size: cover;
+    min-height:800px ;
+    color: white;
+}
+.page3-div1{
+    height:150px;
+    width:1100px;
+    display:flex;
+    justify-content:center;
+    margin: 0px auto;
+    padding-top: 50px;
+
+
+}
+#page3-p-1{
+    height:75px;
+    width:500px;
+    margin-top: 20px;
+    text-align: right;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+    color: rgb(207, 204, 204);
+}
+
+#page3-h-1{
+    height:120px;
+    width:400px;
+    margin-top: 10px;
+    margin-right:130px;
+    padding:5px;
+
+}
+.page3-h6-1{
+    font-size: 20px;
+    color: #a3c962;
+    font-weight: 600;
+}
+
+.page3-h3-1{
+    color: white;
+    font-size: 37px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+/* page3 part 2 */
+
+.page3-div2{
+    display:flex;
+    height:500px;
+    width:1100px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top:50px;
+
+    
+}
+
+.page3-box{
+    height:230px;
+    width:31.5%;
+    background-color:white;
+    cursor: pointer;
+    transition:all 0.3s ease;
+}
+
+.page3-box:hover{
+    background-color:rgb(228, 228, 228);
+}
+
+.boxes-h4{
+    /* margin-top:80px;  */
+    font-weight: 700;
+    color: #a3c962;
+    font-size:26px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.page3-div2 p{
+    width: 250px;
+    letter-spacing:1px;
+    margin: 10px auto;
+    color: rgb(70, 70, 70);
+}
+
+.page3-div2 i{
+    color: black;
+    padding: 30px 0px 0px 150px;
+    font-size: 40px;
+}
+
+/* ########################################### Page4 styling ################################### */
+.page4{
+    height:1480px;
+    
+}
+
+.page4-div1 , .page4-part4-div1, .page5-part2-div1{
+    display:flex;
+    width:1100px;
+    height:150px;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
+.page4-h-1, .page4-part4-h-1, .page5-part2-h-1{
+    height:120px;
+    width:400px;
+    margin-top: 10px;
+    margin-right:10px;
+    padding:5px;
+    text-align: right;
+    margin-left: 140px;
+}
+
+.page4-p-1, .page4-part4-p-1, .page5-part2-p-1{
+    height:75px;
+    width:500px;
+    margin-top: 20px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+    margin-right: 60px;
+    color: rgb(70, 70, 70);
+
+}
+
+.page4-h6-1, .page4-part4-h6-1, .page5-part2-h6-1{
+    font-size: 20px;
+    color: #a3c962;
+    font-weight: 600;
+}
+
+.page4-h3-1, .page4-part4-h3-1, .page5-part2-h3-1{
+    font-size: 37px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.page4-div2{
+    display:flex;
+    width:1300px;
+    margin: 0px auto;
+    flex-wrap: wrap;
+    padding:5px
+
+}
+.gallery{
+    padding:20px;
+}
+
+/* ####################################### Page4 part2 ###################################### */
+
+.page4-part2{
+    background-color:#a3c962;
+    display: flex;
+    height:230px;
+    justify-content: space-around;
+    align-items: center;
+    color:white;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.part2 i{
+    font-size: 25px;
+
+}
+
+.part2 h4{
+    color: black;
+    font-size: 25px;
+    font-weight:600;
+}
+
+.part2 h5{
+    font-size: 25px;
+}
+
+/* ##################################### Page4 part3 ####################################### */
+
+.page4-part3{
+    height:800px;
+
+}
+
+.page4-part3-div1, .page4-part5-div1, .page5-div1, .page6-div1{
+    height:170px;
+    width:1100px;
+    display:flex;
+    justify-content:center;
+    margin: 0px auto;
+    padding-top: 50px;
+    
+    /* overflow:auto ; */
+
+
+}
+.page4-part3-p-1, .page4-part5-p-1, .page5-div1-p-1, .page6-div1-p-1{
+    height:75px;
+    width:500px;
+    margin-top: 20px;
+    text-align: right;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+
+}
+
+.page4-part3-h-1, .page4-part5-h-1, .page5-div1-h-1, .page6-div1-h-1{
+    height:120px;
+    width:400px;
+    margin-top: 10px;
+    margin-right:130px;
+    padding:5px;
+    overflow: hidden;
+
+}
+.page4-part3-h6-1, .page4-part5-h6-1, .page5-div1-h-1-h6, .page6-div1-h-1-h6{
+    font-size: 20px;
+    color: #a3c962;
+    font-weight: 600;
+    padding:5px;
+}
+
+.page4-part3-h3-1, .page4-part5-h3-1, .page5-div1-h-1-h3, .page6-div1-h-1-h3{
+    font-size: 37px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding:5px;
+}
+
+
+.page4-part3-div2{
+    height: 570px;
+    width:1100px;
+    margin: 0px auto;
+    margin-top: 25px;
+    display: flex;
+}
+
+.part3-img1{
+    width:410px;
+
+
+}
+.part3-img2{
+    width:690px;
+    display:flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+
+
+}
+
+.part3-3box{
+    height:150px;
+    width:600px;
+    border-radius: 12px;
+    display: flex;
+    box-shadow: rgb(66 66 66) 7px 12px 29px -2px;
+    cursor: pointer;
+
+}
+
+.part3-img2 i{
+    margin:2px;
+    width:200px;
+    height:140px;
+    font-size:40px;
+    display:inline-block;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.part3-3box-h{
+    height:140px;
+    margin:2px;
+    
+
+}
+
+.part3-3box h5{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+    margin:17px 0px;
+}
+
+.part3-3box p{
+    font-size: 17px;
+    color: #4c4c4c;
+    line-height: 28px;
+}
+
+/* ############################################# page4 part4 ###################################### */
+
+.page4-part4{
+    height:650px;
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/17-12-2018/forest-demo_Free/2069386206/web/images/b2.jpg") ;
+    background-size: cover;
+    min-height:650px ;
+    color:white;
+
+}
+
+.page4-part4-p-1{
+    color: rgb(243, 237, 237) !important;
+}
+
+.page4-part4-div2{
+    display:flex;
+    width:1100px;
+    margin: 0px auto;
+    flex-wrap: wrap;
+    padding:5px;
+    justify-content: space-between;
+
+}
+
+.price-box{
+    height:350px;
+    width:250px;
+    text-align: center;
+    background-color:white;
+
+}
+
+.page4-part4-div2 h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+    margin: 20px 0px 0px 0px;
+}
+
+.page4-part4-div2 h5{
+    font-size:20px;
+    font-weight: 400;
+    margin-top: 20px ;
+    color: black;
+
+}
+.page4-part4-div2 span{
+    font-size: 32px !important; 
+    color: #a3c962 !important;
+    font-weight: 600 !important;
+}
+
+
+.page4-part4-div2 p{
+    height:150px;
+    width:70px;
+    text-align: center;
+    font-size: 16px;
+    color: #969696;
+    padding-top: 11px;
+    margin: 20px auto;
+}
+
+.page4-part4-div2 a{
+    padding:9px 20px;
+    border-radius: 25px;
+    background-color:#a3c962; 
+    color: white;
+    transition:all 0.3s ease;
+
+}
+
+.page4-part4-div2 a:hover{
+    color: rgb(255, 255, 255);
+    background-color:black;
+}
+
+/* ############################################# page4 part5 ######################################### */
+.page4-part5{
+    height:650px;
+}
+
+.page4-part5-div2{
+    width:1200px;
+    height:400px;
+    margin: 30px auto;
+    display:flex;
+    justify-content: space-between;
+    
+
+}
+
+.part5-img{
+    width:350px;
+    height:390px;
+    padding: 5px;
+
+}
+
+.page4-part5-div2 h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+    margin-top:20px;
+}
+
+.page4-part5-div2 h6{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top:8px;
+}
+
+.page4-part5-div2 p{
+    font-size: 17px;
+    color: #4c4c4c;
+    line-height: 28px;
+    margin-top:20px;
+    letter-spacing: 1px;
+}
+
+
+
+/* ######################################### page4 end ############################################ */
+.page4end{
+    border:2px solid rgb(255, 255, 255);
+    height:300px;
+    background-color:#a3c962; ;
+
+}
+
+.page4-end-logo{
+    background-color: white;
+    color:black;
+    margin: 50px auto;
+    border-radius:100%;
+    height:60px;
+    width:60px;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 17px;
+    transition:all 0.3s ease;
+    cursor: pointer;
+
+ 
+}
+
+.page4-end-logo:hover{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    
+}
+
+.page4-end-h{
+    margin: 0px auto;
+    height:140px;
+    width:1100px;
+
+}
+
+.page4end h4{
+    font-size:32px;
+    text-align:center;
+    color:white;
+    font-weight:500;
+}
+
+.page4end p{
+    text-align: center;
+    font-size: 17px;
+    color: #4c4c4c;
+    margin-top: 20px;
+}
+
+
+/* ############################## Page5 ################################### */
+.page5{
+    height:750px;
+}
+
+.page5-div1-p-1{
+    color:rgb(82, 81, 81);
+}
+
+.page5-div2{
+    display: flex;
+    height:530px; 
+    justify-content:center;     
+    text-align:center;
+
+}
+
+.page5-div2-box{
+    height:500px;
+    width:300px;
+    margin-top: 30px;
+    padding:10px;
+}
+
+.page5-div2 h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+    margin-top: 20px;
+}
+
+.page5-div2 p{
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;
+}
+
+.page5-div2 i{
+    height:40px;
+    width:40px;
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    padding-top: 11px;
+    transition:all 0.3s ease;
+    cursor: pointer;
+
+}
+
+.page5-div2 i:hover{
+    color: #a3c962;
+}
+
+
+.page5-div2-logo{
+    height:50px;
+
+}
+
+/* ####################################### Page5 part2 ############################################# */
+.page5-part2{
+    border:0.1px solid rgb(255, 255, 255);
+    height:770px;
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/17-12-2018/forest-demo_Free/2069386206/web/images/b1.jpg") ;
+    background-size: cover;
+    min-height:800px ;
+    color: white;
+
+}
+
+.page5-part2-div2{
+    height:550px;
+    display:flex;
+    justify-content:center;
+ 
+}
+
+
+.page5-part2-div2 img{
+    width:100%;
+    height:auto;
+}
+
+.blog-box{
+    height:500px;
+    width:350px;
+    margin:20px;   
+    padding:20px; 
+    background-color: white;
+    color: black;
+}
+
+
+.page5-part2-div2 h6{
+    font-size: 17px;
+    font-weight: 100;
+    margin:15px 0px;
+}
+
+.blog-box-h4-a a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+}
+.blog-box-h4-a p{
+    font-weight: 150;
+    font-size: 17px;
+    color: #4c4c4c;
+    letter-spacing: 1px;
+    margin-top: 25px;
+}
+
+.blog-box-a-2{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 15px;
+    height:40px;
+}
+
+.blog-box-a-2 a{
+    color: black;
+    margin:7px;
+}
+
+.page5-part2-p-1{
+    color: rgb(212, 211, 211);
+}
+
+/* ########################################## Page6 ############################################## */
+
+.page6{
+    height:670px;
+}
+
+
+.page6-div2{
+    width:1300px;
+    height:460px;
+    margin: 25px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+
+.page6-div2-form1{
+    display: flex;
+    flex-direction: column;
+    height:450px;
+    width:550px;
+}
+
+.NEPM{
+    font-size: 14px;
+    color: #000;
+    padding: 15px;
+    background: #efefef;
+    border: none;
+    border-radius: 0px;
+    outline: none !important;
+    box-shadow: 0px 1px 1px 0px black;
+    margin: 8px;
+    width: 98%;
+
+}
+
+.NEPM:focus{
+    border: 3px solid rgb(118, 197, 228);
+    transition: 0.3s;
+    background-color: white;
+    box-shadow: none !important;
+    
+}
+
+
+#message{
+    height:150px;
+    text-transform: none;
+    resize: none;
+}
+
+.page6-div2-btn{
+    height: 40px;
+    border-radius: 25px;
+    color:white;
+    background-color: #a3c962;
+    font-size: 17px; 
+    border: none;
+    width:95%;
+    margin:7px 12px; 
+    transition:all 0.3s ease;
+
+}
+
+.page6-div2-btn:hover{
+    background-color: black;
+    color:white;
+
+}
+
+.page6-div2-form2{
+    height:400px;
+    width:550px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.page6-div2-form2-box{
+    height:100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+
+.page6-div2-form2-box-logo{
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 10px;
+    width:70px;
+}
+
+.page6-div2-form2-box-h{
+    width:400px;
+}
+
+.page6-div2-form2 h6{
+    font-size: 22px;
+    font-weight: 700;
+    color: #a3c962;
+    margin-bottom: 15px;
+}
+
+.page6-div2-form2 p{
+    font-size: 17px;
+    color: #4c4c4c;
+    letter-spacing: 1px;
+
+}
+
+/* ######################################### End ################################## */
+.end{
+    height:510px;
+    width:100%;
+}
+
+.end-div1{
+    height:300px;
+    width:100%;
+}
+
+.end-div2{
+    background-color:#a3c962;
+    margin-top: 7px;
+    height:200px;
+    width:100%;
+    text-align:center;
+    padding:20px;
+}
+
+.end-div2 p{
+    color:white;
+    font-size:17px;
+    letter-spacing: 1px;
+
+
+}
+
+.end-div2 a{
+    color:black;
+    transition:all 0.3s ease;
+
+}
+
+.end-div2 a:hover{
+    color:white;
+    text-decoration:underline !important;
+}
+
+.end-div2-logo{
+    display:flex;
+    margin:20px auto;
+    height:50px;
+    width: 250px;
+    justify-content: space-evenly;
+
+}
+
+.end-div2-logo i{
+    border:2px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 100%;
+    height:35px;
+    width:35px;
+    padding:6px;
+    cursor:pointer;
+    transition:all 0.3s ease;
+
+}
+
+.end-div2-logo i:hover{
+    color:#a3c962;
+}
+
+.end-div2 img{
+    cursor: pointer;
+}
